@@ -4,6 +4,8 @@ Copy the contents of the sketch folder into your sketches folder.
 
 Copy the contents of the library folder into your libaries folder (usually called "libraries" within your sketches folder).
 
+Update your WiFi details in the file WiFiSecrets.txt in the DATA folder (included).
+
 Load the IDE and load the .ino file from the ESP32-WORVER_Web_Radio. Note that a standard ESP32-WROOM will also work with this sketch as it detects whether PSRAM is present.
 
 See the 'images' folder for the settings used for the ESP32.  
