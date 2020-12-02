@@ -5,6 +5,8 @@ I ported the updated **PlatformIO** version of this project to the **Arduino ID*
 
 The ESP32 Web Radio project needs an independent task to stream music to the VS1053.
 
+<img src="/images/Thumbnail.jpg" width="25%">  
+
 I noticed that whilst the processor was servicing button presses on the screen (or any number of other tasks) it could occasionally introduce stutter in the music playback, as the VS1053 (MP3 Decoder) routine was not being called quickly enough.
 
 Introducing an independent task running the same code as before solved that problem. Tune in to see how it was done and how I ported the PlatformIO project to the Arduino IDE. Amongst many other things.
