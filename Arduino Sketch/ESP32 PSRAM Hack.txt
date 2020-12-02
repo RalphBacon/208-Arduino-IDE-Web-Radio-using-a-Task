@@ -1,3 +1,5 @@
+### This only needs to be done if you want to use the PSRAM on the ESP32-WROVER devices.
+
 STEP 1
 Go to folder:
 C:\Users\<YourUserName>\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\cores\esp32
