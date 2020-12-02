@@ -1,5 +1,5 @@
-# 208-Arduino-IDE-Web-Radio-using-a-Task
-I ported the **PlatformIO** version of this project to the **Arduino ID**E and introduced a playback dedicated task too.
+# 208 Arduino IDE Web Radio using a Task
+I ported the updated **PlatformIO** version of this project to the **Arduino ID**E and introduced a playback dedicated task too.
 
 ### Video: https://
 
